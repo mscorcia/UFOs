@@ -30,7 +30,7 @@ The purpose of the UFOs Project is to profide a more in depth analysis of UFO si
 
 Drawback:
 
-One drawback is that the sight is not public, in order to combat this we can use github pages.
+One drawback is that the website is not public, in order to combat this we can use github pages.
 
 Recommendations:
 
